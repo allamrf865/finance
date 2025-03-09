@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+tensorflow
+plotly
+fastapi
+requests
+json5
+sqlite3
+yfinance
+statsmodels
+scipy
+seaborn
+matplotlib
+scikit-learn
+datetime
