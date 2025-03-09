@@ -6,7 +6,7 @@ plotly
 fastapi
 requests
 json5
-sqlite3
+sqlalchemy
 yfinance
 statsmodels
 scipy
