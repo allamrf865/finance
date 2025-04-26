@@ -289,4 +289,4 @@ elif menu == "Robotic Process Automation for Banking":
 st.sidebar.info("🚀 This finance project integrates AI, Machine Learning, and Quantum Computing for Financial Analysis.")
 
 # Footer Credit
-st.sidebar.text("Developed by: Dede Hermawan")
+st.sidebar.text("Developed by: Muhammad Allam Rafi")
